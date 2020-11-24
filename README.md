@@ -1,6 +1,6 @@
 # nuxt-blog-sample
 
-Practicing with Nuxtjs
+Practicing with Nuxtjs using [this Udemy Course](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids)
 
 
 ## Build Setup
