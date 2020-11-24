@@ -21,3 +21,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+### Resources
+- [Nuxt Data Fetching: Async & Fetch](https://nuxtjs.org/docs/2.x/features/data-fetching)
+- [Vuex Store](https://nuxtjs.org/docs/2.x/directory-structure/store)
